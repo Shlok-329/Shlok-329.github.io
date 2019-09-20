@@ -1,0 +1,198 @@
+<style>
+body {
+background-image: url('about_myself.png');
+	background-repeat: no repeat;
+	width:600px;
+	height:200px;
+
+}
+
+#weblinks {
+	background-image: url('Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+	font-size=22px
+
+}
+
+#home_page {
+	background-image: url('background-618226__480.png');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+
+}
+
+.ho a:link {
+	color: #cc0000;
+
+
+}
+
+.circle {
+	border-radius:60%;
+	height: 600px;
+	width:600px;
+}
+
+.link {
+  overflow: hidden;
+  background-color: #4CAF50;
+}
+
+.link a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.link a:hover {
+  background-color: #ddd;
+  color: red;
+}
+
+.link a.about_me {
+  background-color: #4CAF50;
+  color: red;
+}
+
+p {
+	color : black;
+	text-align: justify;
+	line-height: 1.4;
+	font-family: arial;
+	font-size:18px;
+	
+}
+
+h1 {
+	color: red;
+	font-family:verdana;
+}
+
+h2 {
+	color: Purple;
+	font-family:verdana;
+}
+
+#div {
+	font-size: 30px;
+
+}
+
+#C2 {
+	background-image: url('IMG_20190919_124646.jpg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+}
+
+#B4 {
+	background-image: url('photo-1536869508136-25e131c20a5d.jpeg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+}
+
+#C4 {
+	color: white;
+	font-size: 28px;
+	word-spacing: 6px;
+}
+
+#B5 {
+	background-image: url('photo-1463428537233-c84b754b2c84.jpeg');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+}
+
+#C5 {
+	color: white;
+	font-size: 24px;
+	word-spacing: 6px;
+	font-align: center;
+}
+
+#D5 {
+	font-size: 26px;
+
+
+}
+
+#B3 {
+	background-image: url('Screenshot_2019-09-19-12-44-04-509_com.android.chrome.png');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+
+}
+
+#C3 {
+	font-size: 22px;
+	text-align: justify;
+	word-spacing: 6px;
+	color: white;
+}
+
+#B6 {
+	background-image: url('Screenshot_2019-09-19-12-47-35-916_com.android.chrome.png');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+}
+
+#C6 {
+	font-size: 22px;
+	text-align: center;
+	word-spacing: 6px;
+
+}
+
+#B7 {
+	background-image: url('Screenshot_2019-09-19-12-44-49-459_com.android.chrome.png');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+
+
+
+}
+
+#B1 {
+	background-image: url('19-43-33-web-design-background.png');
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no repeat;
+}
+
+#C1 {
+	font-size: 20px;
+
+}
+
+#wel {
+	font-size: 24px;
+
+}
+
+</style>
